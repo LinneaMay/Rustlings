@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-strings4
+lifetimes3
 
 intro1
 intro2
@@ -39,3 +39,11 @@ enums3
 strings1
 strings2
 strings3
+strings4
+errors1
+errors2
+errors3
+errors4
+errors5
+lifetimes1
+lifetimes2
